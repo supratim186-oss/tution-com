@@ -148,3 +148,28 @@ body{
     text-align: center;
 }
 
+
+@media(max-width:768px){
+
+    .log{
+        font-size:18px;
+        padding:8px 12px;
+    }
+
+    .search-head h1{
+        font-size:40px;
+    }
+
+    .search{
+        font-size:36px;
+        letter-spacing:0;
+    }
+
+    .logo{
+        max-height:120%;
+    }
+
+    .head-text{
+        padding:20px 10px;
+    }
+}
