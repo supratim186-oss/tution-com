@@ -1,8 +1,14 @@
 body{
-    background-color:#121212;
     color:#b3b3b3;
     font-family:'Google Sans',sans-serif;
     margin:0;
+    min-height:100vh;
+
+    background-image:url("background.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
 }
 
 /* HEADER */
@@ -71,35 +77,56 @@ body{
     background-color:#181818;
 }
 
-.search-head h1{
-    font-size:100px;
-    margin:0;
-}
-
-.search{
-    text-decoration:none;
-    color:#ffffff;
-    font-family:'Bebas Neue',sans-serif;
-    font-size:70px;
-    transition:0.3s;
-}
-.search:hover{
-    color:#1ed760;
-    letter-spacing:1px;
-}
-
-.search-head p{
-    font-size:30px;
-    margin-top:10px;
-    color:#ef9595;
-    max-width:800px;
-    margin-left:auto;
-    margin-right:auto;
-}
-
 .log{
     box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #384271;
 }
+
+.img1{
+    display:block;
+    margin:40px auto;
+    max-width:100%;
+}
+.img-wrapper{
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+}
+
+.img1{
+    max-width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
