@@ -97,6 +97,21 @@ body{
     margin-right:auto;
 }
 
+.log{
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 10px #384271;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width:768px){
 
     .log{
