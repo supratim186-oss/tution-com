@@ -47,7 +47,9 @@ body{
     transform:translateX(-50%);
 
     cursor:pointer;
-    transition:0.3s;
+    transition: 2s;
+
+    border-radius: 5px;
 }
 
 .log-btn{
@@ -62,7 +64,8 @@ body{
 
 .log-btn:hover{
     background-color:rgba(255,255,255,0.2);
-    color:white;
+    color:#1ed760 ;
+    letter-spacing: 1.5px;
 }
 
 .log-btn:active{
@@ -116,39 +119,6 @@ body{
     color:#1ed760;
     letter-spacing:1px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
