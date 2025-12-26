@@ -97,10 +97,12 @@ body{
 }
 .footer{
     text-align: center;
+    align-content: center;
 }
 
 .join{
     text-align: center;
+    align-content: center;
 }
 .hero-link{
     text-decoration:none;
